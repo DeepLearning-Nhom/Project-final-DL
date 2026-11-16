@@ -1,1 +1,1 @@
-
+Mô hình và debug
