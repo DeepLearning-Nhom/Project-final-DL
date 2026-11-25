@@ -5,4 +5,4 @@ Link GG Drive (các kết quả chạy của mô hình): https://drive.google.co
 
 Link GG excel: https://docs.google.com/spreadsheets/d/1Y_qjKqP0goQVJIHQGKLa6JENg2iCusEzKdUci5TT2Mc/edit?gid=0#gid=0
 
-Link GG docs: https://docs.google.com/document/d/15iFKz9mBdl9J5yqx3ZXw2ftwfHyzqQ9nAPGQsH4m6t0/edit?tab=t.0
+Link GG docs: https://docs.google.com/document/d/15JZ6oblBabkbHKeKuYJ-93rD3havtguEpLwi6WzU4Tw/edit?usp=sharing
